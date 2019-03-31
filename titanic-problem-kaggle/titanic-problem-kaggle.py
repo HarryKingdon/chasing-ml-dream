@@ -99,6 +99,10 @@ pred = regressor.predict(X_test)
 
 print(accuracy_score(y_test, pred))
 
+# SUPPORT VECTOR MACHINES
+
+# (didn't work)
+
 # QUESTIONS
 
 # How can I adjust hyperparameters?
